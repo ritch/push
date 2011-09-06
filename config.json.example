@@ -1,0 +1,4 @@
+{
+  "port": 3003,
+  "clone": "/path/to/your/project/clone"
+}

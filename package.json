@@ -1,0 +1,19 @@
+{
+  "author": "ritch",
+  "name": "push",
+  "description": "continuos integration with github",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ritch/push.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= v0.4.8"
+  },
+  "bin":{
+      "push":"./bin/push"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
